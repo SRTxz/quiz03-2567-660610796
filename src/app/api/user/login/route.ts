@@ -2,7 +2,7 @@ import jwt from "jsonwebtoken";
 
 import { DB, readDB,DataBase } from "@lib/DB";
 import { NextRequest, NextResponse } from "next/server";
-import { checkToken } from "@lib/checkToken";
+
 
 export const POST = async (request: NextRequest) => {
   const body = await request.json();
