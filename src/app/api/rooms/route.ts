@@ -2,7 +2,6 @@ import { DataBase, DB, Payload, readDB, writeDB } from "@lib/DB";
 import { checkToken } from "@lib/checkToken";
 import { nanoid } from "nanoid";
 import { NextRequest, NextResponse } from "next/server";
-let totalRooms: null;
 export const GET = async () => {
   readDB();
   return NextResponse.json({
