@@ -7,14 +7,13 @@
     {
       "roomId": "HhVrDzdfsW-dS0YGOzrV3",
       "roomName": "261207 Tutorial"
+    },
+    {
+      "roomId": "dHm729ytOFE0E78uhP89T",
+      "roomName": "Spoil One Pie"
     }
   ],
   "messages": [
-    {
-      "roomId": "okhkUzffzCGMqtfC1uv6x",
-      "messageId": "Yi4K5qb-K8iMTgq_zwo0_",
-      "messageText": "Hi bro!"
-    },
     {
       "roomId": "okhkUzffzCGMqtfC1uv6x",
       "messageId": "f8rM7yKv7FRLokgwU7wfg",
@@ -24,6 +23,11 @@
       "roomId": "HhVrDzdfsW-dS0YGOzrV3",
       "messageId": "mBE0AghdK3uwb_yvX9n35",
       "messageText": "Can anyone teach me RESTFul API?"
+    },
+    {
+      "roomId": "okhkUzffzCGMqtfC1uv6x",
+      "messageId": "1vPvO1-Pd9YZ7-eXHqANS",
+      "messageText": "สวัสดีจ่ะ"
     }
   ],
   "users": [
